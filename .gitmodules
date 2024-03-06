@@ -1,0 +1,4 @@
+[submodule "wp-core-plugin"]
+	path = wp-core-plugin
+	url = https://github.com/intelrkm/wp-core-plugin.git
+	branch = V1
